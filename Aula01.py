@@ -81,8 +81,17 @@
 #print(pessoa['address'])
 
 
-#  ATIVIDADE EM CASA #
-#lista = [1, 2, 3, 8, 10, 45, 12]
+#  ATIVIDADE 
+lista = [1, 2, 3, 8, 10, 45, 12]
+max =  Lista [0]
+
+for Lista in Lista:
+    if Lista > max:
+        break
+print (max)
+
+
+#ATIVIDADE
 #FAÇA UM CODIGO, ONDE É POSSIVEL IDENTIFICAR SE O ALUNO PASSOU NA FACULDADE OU NÃO. A MEDIA É 6, E ELE SÓ PODE TER 2 FALTAS
 
 
